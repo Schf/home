@@ -1,0 +1,7 @@
+*
+!.gitignore
+!.gitmodules
+!.config
+!.config/nvim
+!.config/tmux
+
